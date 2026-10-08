@@ -11,3 +11,4 @@
 # Number of entries: 
 #
 *.poly-track.io
+*.minecraftforfreex.com
