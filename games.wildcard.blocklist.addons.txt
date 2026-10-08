@@ -1,0 +1,13 @@
+# Title: zeon77's - games blocklist
+# Description: Addon domains to Blacklists UT1 / Games (https://dsi.ut-capitole.fr/blacklists/index_en.php)
+# Homepage: https://github.com/zeon77/blocklists
+# License: 
+# Issues: 
+# Disclaimer: 
+# Expires: 
+# Last modified: 
+# Version: 2026.10.04
+# Syntax: Domains Wildcard (without subdomains)
+# Number of entries: 
+#
+*.poly-track.io
